@@ -1,0 +1,4 @@
+Deneme0
+Deneme1
+Deneme2
+Deneme3 f.write() kullanarakDeneme 4 with open() kullanarak
